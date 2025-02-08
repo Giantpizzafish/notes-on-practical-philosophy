@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/practical-philosophy/"}
 ---
 
-Practical Philosophy
+Practical [[Philosophy\|Philosophy]]
